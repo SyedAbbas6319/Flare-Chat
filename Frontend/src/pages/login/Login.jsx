@@ -17,8 +17,7 @@ const Login = () => {
     <div className="flex flex-col items-center justify-center min-w-96 mx-auto">
       <div className="w-full p-6 shadow-md bg-brown-500 rounded-md bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-50 border border-gray-100">
         <h1 className="text-3xl font-semibold text-center text-gray-800">
-          Login
-          <span className="text-blue-500"> QuickTalk</span>
+          <span className="text-blue-500"> Flare Chat</span>
         </h1>
 
         <form onSubmit={handleSubmit}>

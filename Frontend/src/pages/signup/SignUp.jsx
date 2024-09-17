@@ -27,7 +27,7 @@ const SignUp = () => {
     <div className="flex flex-col items-center justify-center min-w-96 mx-auto">
       <div className="w-full p-6  shadow-mdbg-brown-500 rounded-md bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-50 border border-gray-100">
         <h1 className="text-3xl font-semibold text-center text-gray-900">
-          Sign Up <span className="text-blue-800"> QuickTalk</span>
+        <span className="text-blue-500"> Flare Chat</span>
         </h1>
 
         <form onSubmit={handleSubmit}>
